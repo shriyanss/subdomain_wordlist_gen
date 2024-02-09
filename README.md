@@ -1,6 +1,8 @@
 # subdomain_wordlist_gen (aka subgen)
 Subdomain wordlist generator
 
+Github: [@shriyanss/subdomain_wordlist_gen](https://github.com/shriyanss/subdomain_wordlist_gen)
+
 ## Table of contents
 - [Installation](#installation)
     - [Install using `pip` (recommended)](#install-using-pip-recommended)
