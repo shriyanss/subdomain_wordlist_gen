@@ -25,5 +25,8 @@ setup(
         'console_scripts': [
             'subgen = subgen.cli:main',
         ],
-    }
+    },
+    install_requires=[
+        "pyfiglet"
+    ]
 )
