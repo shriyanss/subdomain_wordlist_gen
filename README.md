@@ -1,2 +1,2 @@
-# subdomain_wordlist_gen
+# subdomain_wordlist_gen (aka subgen)
 Subdomain wordlist generator
