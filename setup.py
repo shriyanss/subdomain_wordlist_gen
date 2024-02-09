@@ -27,6 +27,7 @@ setup(
         ],
     },
     install_requires=[
-        "pyfiglet"
+        "pyfiglet",
+        "tldextract"
     ]
 )
