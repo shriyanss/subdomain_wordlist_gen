@@ -23,7 +23,7 @@ setup(
     python_requires='>=3.6',
     entry_points={
         'console_scripts': [
-            'subgen = subgen.cli:main',
+            'subgen = subgen.subgen.cli:main',
         ],
     },
     install_requires=[
